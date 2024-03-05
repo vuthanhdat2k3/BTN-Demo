@@ -38,7 +38,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
           // Hiển thị phần tử mà người dùng đã chọn
           if(targetId == "thong-ke") window.location.href = "trang-thong-ke.html";
-          else if(targetId == "ket-qua") window.location.href = "trang-ket-qua-admin.html";
+          else if(targetId == "ket-qua") window.location.href = "admin-trang-ket-qua.html";
           else document.getElementById(targetId).style.display = "block";
       });
     });

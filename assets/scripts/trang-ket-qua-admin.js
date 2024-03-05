@@ -1,6 +1,6 @@
 const students = [
   {
-    name: "Nguyen Van A",
+    name: "Nguyen Van An",
     id: "B21DCCN001",
     exams: [
       {
@@ -49,7 +49,7 @@ const students = [
     ],
   },
   {
-    name: "Nguyen Van B",
+    name: "Trần Trung Kiên",
     id: "B21DCCN002",
     exams: [
       {
